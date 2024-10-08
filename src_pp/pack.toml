@@ -1,0 +1,13 @@
+name = "ft_modpack++"
+author = "mmellier"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "034494b0b09963e90b76803f9fe20e2c07a2bf65c95821ad5c19412ceec197d0"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
